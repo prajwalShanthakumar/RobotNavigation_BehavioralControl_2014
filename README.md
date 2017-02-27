@@ -9,3 +9,8 @@ three controllers (behaviors), namely, go-to-goal, avoid obstacle and
 follow wall is employed. A supervisor that switches between these
 controllers using appropriate guards and reset conditions is designed
 for robust navigation. A PID regulator ensures smooth movement of the robot towards the goal while avoiding obstacles in the environment.
+
+A couple of photos of the robot can be found in the repository.
+Sadly, we seem to have lost all videos of the robot navigating in a cluttered, dynamic environment.
+
+
