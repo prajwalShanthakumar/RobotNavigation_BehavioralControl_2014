@@ -12,5 +12,6 @@ for robust navigation. A PID regulator ensures smooth movement of the robot towa
 
 A couple of photos of the robot can be found in the repository.
 Sadly, we seem to have lost all videos of the robot navigating in a cluttered, dynamic environment.
+The only video we have is one of the earliest ones, of the robot navigating to a goal location 100 cms away perpendicular to its original orientation.
 
 
